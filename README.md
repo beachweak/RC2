@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://plecak.lol/RC2">
-    <img src="https://raw.githubusercontent.com/plecakserce/RC2/main/ad.png" height="400px">
+    <img src="https://raw.githubusercontent.com/plecakserce/RC2/main/ad1.png" height="400px">
   </a>
 </p>
 
