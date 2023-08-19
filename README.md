@@ -21,7 +21,8 @@ like:
 - Live features such as a built in Clock and Date tracker
 - Functional, responsive UI
 - A page for quick launches of commonly used apps
-- Custom profile picture and theme support
+- Easy to use customisation features
+- Support for 🇬🇧 and 🇳🇱
 
 Oh, and it's totally free.
 
