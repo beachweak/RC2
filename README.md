@@ -7,8 +7,8 @@
 &nbsp;
 
 A simple web application designed for easy access
-to apps, clever and helpful widgets and more. It's
-a hub to collaborate that just works.
+to apps, clever helpful widgets, instant customisation and more. 
+Your workflow; made simple.
 
 ## What is RC2?
 
@@ -18,13 +18,10 @@ off the concept and ideas from C2K and R2K, while being
 entirely rebuilt from the ground up. RC2 includes features
 like:
 
-- Live features such as a built in Clock and Date tracker
-- Functional, responsive UI
-- A page for quick launches of commonly used apps
-- Easy to use customisation features
-- Support for 🇬🇧 and 🇳🇱
-
-Oh, and it's totally free.
+- Live features such as a built in Clock
+- Up to 24 apps, allowing you to get things done faster
+- Recreated widgets from C2K, cleaned up
+- User-friendly customisation options
 
 ## FAQ
 
@@ -35,6 +32,17 @@ running them through a LocalServer or Online. Because of the new
 experimental features RC2 introduces, local HTML files entirely break
 these features. With some editing, you CAN in theory remove this
 restriction, but we don't recommend it.
+
+### Why Release Build 2? What happened to sidebar?
+
+Release Build 1 was an attempt to recreate what made R2K great. While we
+were initially proud of it, the issues became apparent; many small
+design flaws and incomplete coding made the experience worse.
+With Release Build 2, many of these issues are fixed. Sidebar
+was removed because it didn't fit into the true, complete
+vision of RC2; it interfered with things too deeply.
+RC2 will continue to be improved overtime, and I hope to someday
+truly finish it.
 
 ### Are more updates planned in future?
 
