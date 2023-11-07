@@ -4,8 +4,6 @@
   </a>
 </p>
 
-&nbsp;
-
 A simple web application designed for easy access
 to apps, clever helpful widgets, instant customisation and more. 
 Your workflow; made simple.
