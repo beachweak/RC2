@@ -4,6 +4,8 @@
   </a>
 </p>
 
+# This project is not actively maintained anymore! Check out [XCR](https://github.com/beachweak/XCR) for a better, more updated version.
+
 A simple web application designed for easy access
 to apps, clever helpful widgets, instant customisation and more. 
 Your workflow; made simple.
